@@ -18,5 +18,5 @@ If you're using Python 2, you may want to type in "python-2.7.11" instead.
 20. Tell git your username (just pick whatever username) with "git config --global user.name "whateverusername"". The username should be in quotes.
 21. Commit the changes with "git commit -m "first commit"". Make sure "first commit" is inside quotes.
 22. Before pushing the changes to Heroku, tell heroku the name of the app you want to use with "heroku git:remote --app myawesomeappname"
-23. Push the changes to Heroku with "git push heroku master"
+23. Push the changes to Heroku with "git push heroku main"
 26. That should do it. Go ahead and open your app with "heroku open".
