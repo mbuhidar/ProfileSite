@@ -1,4 +1,4 @@
-# Section 19 - Flask Static Website
+# Personal Profile Flask Static Website
 
 from flask import Flask, render_template
 
